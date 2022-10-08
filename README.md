@@ -1,7 +1,7 @@
 <h1 align="center">Raspberry Pi Workshop</h1>
 
 ## Initial Kickstart Learning Resources
-* Setup for First-time
+### Setup for First-time
   * **Setup Headless Mode** - [hackster.io](https://www.hackster.io/435738/how-to-setup-your-raspberry-pi-headless-8a905f)
   * Some Software you may have to install during this process are:
     * VNC Viewer - [DOWNLOAD Link](https://www.realvnc.com/en/connect/download/viewer/) 
@@ -29,3 +29,5 @@ So, to do that the following steps are:
     * **Step 07 -** At the login screen, type Username/Password of our Raspberry and then click on OK button. and u are in...
     
 > Supportable for All OS like: Windows, MacOS, Linux. During this Setuping part Internet, Connective is imported for the initial stage 
+
+### How to Enable Few Ports/ Protocols for better connectivity with other Raspberry Pi Hats or any electronic module
